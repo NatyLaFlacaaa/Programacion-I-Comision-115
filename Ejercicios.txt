@@ -1,5 +1,14 @@
 Ejercicios:
 
+30/9
+Nuestra misión:
+Crear un algoritmo en Python que imprima por pantalla si un año es bisiesto o no lo es.
+
+Para esta misión nos proporcionan la siguiente ayuda:
+El año es bisiesto si es divisible por 4 y no es divisible por 100 o es divisible por 400.
+
+________________________________________
+
 7/9
 Nuestra misión:
 Crear un programa en Python que permita al usuario interactuar con un juego a través de un menú. El objetivo del juego es adivinar un número secreto entre 1 y 10.
