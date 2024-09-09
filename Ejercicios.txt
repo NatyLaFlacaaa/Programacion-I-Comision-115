@@ -1,0 +1,28 @@
+Ejercicios:
+
+7/9
+Nuestra misión:
+Crear un programa en Python que permita al usuario interactuar con un juego a través de un menú. El objetivo del juego es adivinar un número secreto entre 1 y 10.
+
+Instrucciones:
+Menú del juego: Al ejecutar el programa, debe mostrarse un menú con tres opciones:
+
+JUGAR: Inicia el juego donde el usuario tiene 3 intentos para adivinar un número aleatorio entre 1 y 10.
+MOSTRAR LAS REGLAS DEL JUEGO: Muestra las reglas del juego de manera clara.
+SALIR: Finaliza el programa.
+Desarrollo del juego:
+
+Al seleccionar la opción "JUGAR", el programa debe generar un número aleatorio entre 1 y 10.
+El usuario tendrá 3 intentos para adivinar el número secreto.
+Si el usuario adivina el número correcto, el programa debe mostrar un mensaje de felicitación.
+Si el usuario no adivina el número después de 3 intentos, el programa debe mostrar un mensaje indicando que ha perdido y revelar el número correcto.
+
+Reglas del juego:
+El programa debe contar con una opción en el menú para mostrar las reglas del juego.
+
+Salida:
+El usuario puede seleccionar la opción "SALIR" para terminar el programa en cualquier momento.
+
+RECOMENDACIONES DE MISIÓN
+Nos sugieren que el juego este en una funcion y sea llamada cuando el usuario seleccione la opcion de jugar,lo mismo para las reglas del juego.
+Otra sugerencia que nos realizaron es la de utilizar sugerencia de tipos y la documentación de funciones.
